@@ -1,0 +1,28 @@
+the size of the actual signal is [ 36000 X 1 ]
+the size of the comressed signal is [ 2000 X 1 ]
+the number of peaks in the signal is 1000 
+the time taken for compressionis:2.844191e+00
+the size of the actual signal is [ 20000 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:1.138731e+00
+the size of the actual signal is [ 20000 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:9.751532e-01
+the size of the actual signal is [ 20000 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:1.406514e-01
+the size of the actual signal is [ 10001 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:3.197273e-03
+the size of the actual signal is [ 10001 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:9.338339e-01
+the size of the actual signal is [ 10001 X 1 ]
+the size of the comressed signal is [ 1200 X 1 ]
+the number of peaks in the signal is 600 
+the time taken for compressionis:9.976146e-01

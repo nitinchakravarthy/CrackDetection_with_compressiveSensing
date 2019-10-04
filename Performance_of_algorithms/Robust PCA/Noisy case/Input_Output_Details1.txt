@@ -1,0 +1,11 @@
+the size of the actual signal is [ 100000 X 10 ]
+the size of the reshaped signal is [ 1000 X 1000 ]
+the size of the comressed signal is [ 60 X 50 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :3.540824e+001
+the least squares error in the recovery of data by "rPCA"is: 2.120712e-001
+the least squares error in the recovery of sparse data by "rPCA"is: 2.112555e-001
+the l1-norm error in the recovery of data by "rPCA"is: 2.120712e-001
+
+   next Iteration  
+

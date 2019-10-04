@@ -1,0 +1,8 @@
+function [ x, istop, itn, r1norm, r2norm, anorm, acond, arnorm, xnorm, var ]...
+  = lsqr( m, n, A, b, damp, atol, btol, conlim, itnlim, show )
+%
+%        [ x, istop, itn, r1norm, r2norm, anorm, acond, arnorm, xnorm, var ]...
+% = lsqr( m, n, A, b, damp, atol, btol, conlim, itnlim, show );
+%
+% LSQR solves  Ax = b  or  min ||b - Ax||_2  if damp = 0,
+% or   min || (b)

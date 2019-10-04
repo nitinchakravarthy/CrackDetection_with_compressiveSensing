@@ -1,0 +1,154 @@
+the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 10 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :5.886970e-02
+the least squares error in the recovery of data by "rPCA"is: 1.798935e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 1.798935e-03
+the l1-norm error in the recovery of data by "rPCA"is: 1.798935e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 5 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :6.053720e-02
+the least squares error in the recovery of data by "rPCA"is: 7.471879e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 7.471879e-01
+the l1-norm error in the recovery of data by "rPCA"is: 7.471879e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 8 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :4.949778e-02
+the least squares error in the recovery of data by "rPCA"is: 3.696445e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 3.696445e-01
+the l1-norm error in the recovery of data by "rPCA"is: 3.696445e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 9 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :4.791563e-02
+the least squares error in the recovery of data by "rPCA"is: 2.939926e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 2.939926e-01
+the l1-norm error in the recovery of data by "rPCA"is: 2.939926e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 10 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :5.149964e-02
+the least squares error in the recovery of data by "rPCA"is: 1.798935e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 1.798935e-03
+the l1-norm error in the recovery of data by "rPCA"is: 1.798935e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 30 X 10 ]
+the number of peaks in the signal is 30 
+the time taken for the recovery by the "rPCA method:" is :5.495888e-02
+the least squares error in the recovery of data by "rPCA"is: 1.800092e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 1.800092e-03
+the l1-norm error in the recovery of data by "rPCA"is: 1.800092e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 30 X 10 ]
+the number of peaks in the signal is 30 
+the time taken for the recovery by the "rPCA method:" is :5.896477e-02
+the least squares error in the recovery of data by "rPCA"is: 7.645742e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 7.645742e-01
+the l1-norm error in the recovery of data by "rPCA"is: 7.645742e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 10 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :4.839313e-02
+the least squares error in the recovery of data by "rPCA"is: 9.105722e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 9.105722e-03
+the l1-norm error in the recovery of data by "rPCA"is: 9.105722e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 70 X 10 ]
+the number of peaks in the signal is 70 
+the time taken for the recovery by the "rPCA method:" is :4.790806e-02
+the least squares error in the recovery of data by "rPCA"is: 7.625510e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 7.625510e-03
+the l1-norm error in the recovery of data by "rPCA"is: 7.625510e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 70 X 10 ]
+the number of peaks in the signal is 70 
+the time taken for the recovery by the "rPCA method:" is :4.873452e-02
+the least squares error in the recovery of data by "rPCA"is: 4.355254e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 4.355254e-01
+the l1-norm error in the recovery of data by "rPCA"is: 4.355254e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 100 X 10 ]
+the number of peaks in the signal is 100 
+the time taken for the recovery by the "rPCA method:" is :8.813493e-02
+the least squares error in the recovery of data by "rPCA"is: 1.896487e-02
+the least squares error in the recovery of sparse data by "rPCA"is: 1.896487e-02
+the l1-norm error in the recovery of data by "rPCA"is: 1.896487e-02
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 60 X 10 ]
+the number of peaks in the signal is 60 
+the time taken for the recovery by the "rPCA method:" is :4.754561e-02
+the least squares error in the recovery of data by "rPCA"is: 8.461527e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 8.461527e-01
+the l1-norm error in the recovery of data by "rPCA"is: 8.461527e-01
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 100 X 10 ]
+the number of peaks in the signal is 100 
+the time taken for the recovery by the "rPCA method:" is :5.039824e-02
+the least squares error in the recovery of data by "rPCA"is: 1.896487e-02
+the least squares error in the recovery of sparse data by "rPCA"is: 1.896487e-02
+the l1-norm error in the recovery of data by "rPCA"is: 1.896487e-02
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 90 X 10 ]
+the number of peaks in the signal is 90 
+the time taken for the recovery by the "rPCA method:" is :4.665649e-02
+the least squares error in the recovery of data by "rPCA"is: 1.284117e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 1.284117e-03
+the l1-norm error in the recovery of data by "rPCA"is: 1.284117e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 80 X 10 ]
+the number of peaks in the signal is 80 
+the time taken for the recovery by the "rPCA method:" is :4.929630e-02
+the least squares error in the recovery of data by "rPCA"is: 6.628744e-02
+the least squares error in the recovery of sparse data by "rPCA"is: 6.628744e-02
+the l1-norm error in the recovery of data by "rPCA"is: 6.628744e-02
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 90 X 10 ]
+the number of peaks in the signal is 90 
+the time taken for the recovery by the "rPCA method:" is :4.799557e-02
+the least squares error in the recovery of data by "rPCA"is: 1.284117e-03
+the least squares error in the recovery of sparse data by "rPCA"is: 1.284117e-03
+the l1-norm error in the recovery of data by "rPCA"is: 1.284117e-03
+
+   next Iteration 
+ the size of the actual signal is [ 100000 X 10 ]
+the size of the comressed signal is [ 70 X 10 ]
+the number of peaks in the signal is 70 
+the time taken for the recovery by the "rPCA method:" is :5.172273e-02
+the least squares error in the recovery of data by "rPCA"is: 4.355254e-01
+the least squares error in the recovery of sparse data by "rPCA"is: 4.355254e-01
+the l1-norm error in the recovery of data by "rPCA"is: 4.355254e-01
+
+   next Iteration 
+ 

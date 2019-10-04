@@ -1,0 +1,506 @@
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
+Type of Beam : Cantilever
+Steel Material
+Beam dimensions : 0.014 * 0.014
+Beam length : 1.000
+Time Steps :  5000
+Length of a time step : 0.0001
+Fundamental Frequency : 11.4577
+Second Frequency : 71.8064
+Damping values : 0.0100 & 0.0050
+
+
